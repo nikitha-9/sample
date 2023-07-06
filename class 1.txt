@@ -1,0 +1,44 @@
+//*class 1 *//::::(offline)||5th june 2k23||
+->list: collection of different data types stores sequentially
+->float:8 bits
+->int :2 bits
+->indexing:helps to retrive single value of data
+->slicing: retriving a part of sequence or retriving multiple char
+->[:]-> is called slicing operator
+->list is mutable
+->in list we can change elements or we can ammend it
+->in tuple once it is defined we cant change it,"indexing is only possible for sequential datatypes like list and tuple not for unorderd collection data types such as dictionaries and sets as they are randomly arranged its not subscriptable(indexing is nt possible)
+--------------------------------------------------------------------------------------------
+//* class2*//:::::||7 th june 2k23||
+arthimetic assignment operator:
+= =+ =- /= *=...... and so on
+x+=5-> x= x+5
+no increment and decrement values i.e no i++ or i--
+boolean: true or false either
+"=" : "means to assign a value to a particular variable
+"==":"relational or comparision operator" i.e result will be in boolean type either true or false
+membership operator output also returns boolean type output
+--------------------------------------------------------------------------------------------
+//* class 3*//::::||8 th june 2k23(online)
+in notes...........
+//*class 4*//||13 th june 2k23(online)
+in notes...........................
+-----------------------------------------------------------------------------------------
+//*class 5*//::::;||12 th june 2k23
+for loop:
+	no conditional statement is nt req
+	increment and decrement are also nt req
+because
+it has built in: next()
+iter()
+it is used for traversing of data
+syntax:
+	for var in sequence:
+		statement block
+range function:
+	it works with numerals
+for i in range(10)
+in else suit for and while r allowed
+for,else and while ,else
+	
+	
